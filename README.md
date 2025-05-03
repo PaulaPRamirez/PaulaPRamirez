@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey everyone, I'm Paula Pareja Ramírez 👋</h1>
  
 
-### Data Analyst 📊 | Business Intelligence 👩‍💻
+### Data Engineer 👩‍💻
 </p>
 Welcome to my GitHub profile! 
 </p>
