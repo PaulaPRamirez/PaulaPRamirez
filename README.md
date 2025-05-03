@@ -5,7 +5,7 @@
 </p>
 Welcome to my GitHub profile! 
 </p>
-I am a data analyst passionate about uncovering captivating stories hidden within data. Join me on this exciting journey as I delve into the world of data and create new projects!
+I am a data engineer passionate about uncovering captivating stories hidden within data. Join me on this exciting journey as I delve into the world of data and create new projects!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -45,7 +45,6 @@ I am a data analyst passionate about uncovering captivating stories hidden withi
 ### - Other things about me:<br>
 
 - 🗺️ I am passionate for languages. I am fluent in Spanish, English and French, and I have a basic level of Arabic.
-- 🤝🏼 I also work as a deal closer and account manager for a Digital Marketing Company in Madrid.
 - 🎬 I'm a movie geek.
 - 🥊 In my free time I love to play sports. I practice Muay Thai.
 - 🙋🏻‍♀️ Open for discussion on: Anything about tech, finance and politics. 
