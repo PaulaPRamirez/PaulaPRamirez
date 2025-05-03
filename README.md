@@ -22,7 +22,7 @@ I am a data engineer passionate about uncovering captivating stories hidden with
   <img align="right" src="https://github.com/PaulaPRamirez/Bio/assets/134306954/8610d853-e6de-4e43-ae71-e1a7aed871ae" alt="2001 i039 031_branding_isometric_concept_icons-06" width="250" height="250">
   
 ### - Hard Skills:
-  
+
   <div>
     <p>
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R">
@@ -34,12 +34,14 @@ I am a data engineer passionate about uncovering captivating stories hidden with
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
       <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow">
       <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+      <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery">
     </p>
   </div>
 </div>
 
 <br><br>
-
 
 ### - Other things about me:<br>
 
@@ -51,21 +53,7 @@ I am a data engineer passionate about uncovering captivating stories hidden with
 
 <br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulaPRamirez&show_icons=true&theme=tokyonight" alt="My github stats" height="148"/>
-</p>
-
-<p align="center">
-  <img align="left" height="148"  src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaPRamirez&theme=tokyonight" alt="PaulaPRamirez"/>
-</p>
-
-<p align="center">
-  <img align="right" height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="languages"/> 
-</p>
-
-
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-
-
+<div align="center">
+  <img height="148" src="https://github-readme-stats.vercel.app/api?username=PaulaPRamirez&show_icons=true&theme=tokyonight" alt="PaulaPRamirez GitHub Stats" />
+  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaPRamirez&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
